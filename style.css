@@ -18,10 +18,12 @@
     width: 100%;
 }
 
-.cards h1{
+#card-h1{
    width: 100%;
    text-align: center;
    color: white;
+   background-color: black;
+   margin-bottom: 0%;
 }
 
 .cards{
